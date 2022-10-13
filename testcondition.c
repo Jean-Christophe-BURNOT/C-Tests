@@ -6,15 +6,15 @@
 int main()
 {
 	int a=10;
-	if (a>5);
+	if (a>5)
 	{
 		printf("On est passé dans le if");
 	}
-	else if (a>2);
+	else if (a>2)
 	{
 		printf("On est passé dans le else if");
 	}
-	else;
+	else
 	{
 		printf("On est passé dans le else");
 	}
